@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: phps2hy9b-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/phps2hy9b-dotnet-basic-gitops
